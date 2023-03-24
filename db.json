@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "daniel 1",
+      "email": "Sincere@april.biz",
+      "country": "Europe",
+      "industry": [
+        "project manager",
+        "developer",
+        "student",
+        "professor"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "leanne 2",
+      "email": "Sincere@april.biz",
+      "country": "United States",
+      "industry": [
+        "director",
+        "owner",
+        "sales manager",
+        "professor"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "graham 3",
+      "email": "Sincere@april.biz",
+      "country": "Germany",
+      "industry": [
+        "project manager",
+        "developer",
+        "sales"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "jeff 4",
+      "email": "Sincere@april.biz",
+      "country": "India",
+      "industry": [
+        "engineer",
+        "director"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "misha 5",
+      "email": "Sincere@april.biz",
+      "country": "Europe",
+      "industry": [
+        "student"
+      ]
+    }
+  ]
+}
