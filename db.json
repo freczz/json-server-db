@@ -6,10 +6,10 @@
       "email": "Sincere@april.biz",
       "country": "Europe",
       "industry": [
-        "project manager",
-        "developer",
-        "student",
-        "professor"
+        "accounting",
+        "automotive",
+        "chemicals",
+        "arts & crafts"
       ]
     },
     {
@@ -18,10 +18,10 @@
       "email": "Sincere@april.biz",
       "country": "United States",
       "industry": [
-        "director",
-        "owner",
-        "sales manager",
-        "professor"
+        "animation",
+        "computer games",
+        "construction",
+        "dairy"
       ]
     },
     {
@@ -30,9 +30,9 @@
       "email": "Sincere@april.biz",
       "country": "Germany",
       "industry": [
-        "project manager",
-        "developer",
-        "sales"
+        "dairy",
+        "computer games",
+        "banking"
       ]
     },
     {
@@ -41,8 +41,8 @@
       "email": "Sincere@april.biz",
       "country": "India",
       "industry": [
-        "engineer",
-        "director"
+        "design",
+        "dairy"
       ]
     },
     {
@@ -51,7 +51,7 @@
       "email": "Sincere@april.biz",
       "country": "Europe",
       "industry": [
-        "student"
+        "entertainment"
       ]
     }
   ]
